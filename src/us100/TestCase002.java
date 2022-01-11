@@ -7,6 +7,10 @@ public class TestCase002 {
 
         System.out.println("Hello hello");
 
+
+        int a = 10;
+
+
     }
 
 }
